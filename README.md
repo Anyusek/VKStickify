@@ -1,4 +1,4 @@
-# Stickify (Demo Test)
+# VK Stickify (Demo Test)
 
 <img width="911" height="364" alt="NmQZ9mnPumw" src="https://github.com/user-attachments/assets/d9ef495f-d7d4-4efb-a853-406b0971e040" />
 
