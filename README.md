@@ -1,7 +1,7 @@
 # Stickify (Demo Test)
 
 <img width="911" height="364" alt="NmQZ9mnPumw" src="https://github.com/user-attachments/assets/d9ef495f-d7d4-4efb-a853-406b0971e040" />
----
+
 
 **Stickify** — мини-приложение ВКонтакте для анализа коллекций стикеров, просмотра статистики и рейтингов.
 
