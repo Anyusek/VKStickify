@@ -261,3 +261,9 @@ npm run build
 * Или создавай Issue в репозитории на GitHub — мы это заметим.
 
 А также подписывайтесь на сообщество Stickify и следите за новостями: https://vk.ru/vkstickify
+
+---
+
+## Лицензия
+
+[LICENSE](LICENSE)
