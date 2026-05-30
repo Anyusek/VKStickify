@@ -268,3 +268,4 @@ npm run preview
 
 Подробнее см. файл [LICENSE](LICENSE).
 </details>
+
