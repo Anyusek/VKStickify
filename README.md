@@ -41,7 +41,7 @@
 
 ## Разделы приложения
 
-<img width="1820" height="1000" alt="2026-05-29_10-59-14" src="https://github.com/user-attachments/assets/cbd19cdc-4c58-4e36-b565-fbb629231a44" />
+<img width="1800" height="1000" alt="2026-05-30_19-04-17" src="https://github.com/user-attachments/assets/a4526a0d-e8cc-4d6f-92b5-a322d97509b3" />
 
 Навигация — нижняя панель из 5 вкладок.
 
